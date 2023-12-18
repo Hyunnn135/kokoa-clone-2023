@@ -1,3 +1,3 @@
-#Kokoa Clone 2023 update
+# Kokoa Clone 2023 update
 
-Let's get start!
+HTML and CSS are so awesome!
